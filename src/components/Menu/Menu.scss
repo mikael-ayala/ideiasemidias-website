@@ -1,0 +1,38 @@
+.menu {
+    .container-menu {
+        display: flex;
+        justify-content: space-between;
+        padding-block: 0.8rem;
+
+        .icons {
+            display: flex;
+            gap: 3.2rem;
+        }
+    }
+}
+
+.navbar {
+    align-items: center;
+    background-color: #000;
+    display: flex;
+    height: 3.2rem;
+    gap: 1.6rem;
+    justify-content: flex-end;
+    width: 100%;
+
+    nav {
+        display: flex;
+        gap: 1.6rem;
+
+        a {
+            color: #fff;
+            font-weight: bold;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+
+        a.active {
+            color: #F17E00;
+        }
+    }
+}
