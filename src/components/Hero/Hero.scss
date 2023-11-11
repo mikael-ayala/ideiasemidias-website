@@ -1,0 +1,33 @@
+.hero {
+    position: relative;
+    display: flex;
+    height: 46.5rem;
+
+    .hero__text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        gap: 1.6rem;
+        height: 100%;
+        width: 76rem;
+        z-index: 1000;
+
+        h1 {
+            color: var(--orange-color);
+            font-weight: bold;
+            font-size: 4.8rem;
+            text-transform: uppercase;
+        }
+
+        p {
+            font-size: 1.6rem;
+        }
+    }
+
+    .hero__background-img {
+        position: absolute;
+        right: 0;
+        height: 46.5rem;
+        width: 66rem;
+    }
+}

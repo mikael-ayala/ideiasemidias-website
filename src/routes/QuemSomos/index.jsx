@@ -1,5 +1,11 @@
+import Hero from '../../components/Hero'
+import Servicos from '../../components/Servicos'
+
 export default function QuemSomos() {
     return (
-        <h1>Quem Somos</h1>
+        <main>
+            <Hero />
+            <Servicos />
+        </main>
     )
 }

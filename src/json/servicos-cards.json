@@ -1,0 +1,26 @@
+[
+    {
+        "image": "/src/assets/servicos-icons/livro-icon.png",
+        "text": "Capas"
+    },
+    {
+        "image": "/src/assets/servicos-icons/diagramacao-icon.png",
+        "text": "Diagramação"
+    },
+    {
+        "image": "/src/assets/servicos-icons/ebook-icon.png",
+        "text": "Ebook"
+    },
+    {
+        "image": "/src/assets/servicos-icons/livro-aberto-icon.png",
+        "text": "Livros e Revistas"
+    },
+    {
+        "image": "/src/assets/servicos-icons/design-icon.png",
+        "text": "Design Gráfico"
+    },
+    {
+        "image": "/src/assets/servicos-icons/revisao-icon.png",
+        "text": "Revisão Ortográfica"
+    }
+]

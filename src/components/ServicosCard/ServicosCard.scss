@@ -1,0 +1,15 @@
+.servicos-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 10rem;
+
+    img {
+        height: 10rem;
+        width: 10rem;
+    }
+
+    p {
+        font-size: 1.6rem;
+    }
+}
