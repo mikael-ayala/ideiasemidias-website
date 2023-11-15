@@ -8,8 +8,8 @@ import Email from '../../assets/email.svg?react'
 export default function Menu() {
     return (
         <>
-        <header className='menu'>
-            <div className="container-menu container">
+        <header className='menu container'>
+            <div className="container-menu">
                 <Logo width="186" height="130" />
                 <div className='icons'>
                     <a href="mailto:juarezrodolpho@gmail.com" target='_blank' rel="noreferrer">
@@ -24,11 +24,13 @@ export default function Menu() {
                 </div>
             </div>
         </header>
-        <div className='navbar container'>
-            <nav>
-                <NavLink to="/" className={({ isActive }) => (isActive ? 'active' : '')}>Quem Somos</NavLink>
-                <NavLink to="/portfolio" className={({ isActive }) => (isActive ? 'active' : '')}>Portfolio</NavLink>
-            </nav>
+        <div className='navbar'>
+            <div className="container">
+                <nav>
+                    <NavLink to="/" className={({ isActive }) => (isActive ? 'active' : '')}>Quem Somos</NavLink>
+                    <NavLink to="/portfolio" className={({ isActive }) => (isActive ? 'active' : '')}>Portfolio</NavLink>
+                </nav>
+            </div>
         </div>
         </>
         
