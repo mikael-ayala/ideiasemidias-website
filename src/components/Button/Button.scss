@@ -1,0 +1,19 @@
+.button {
+    background-color: #000;
+    border: none;
+    border-radius: 0.75rem;
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 0.8rem;
+    text-transform: capitalize;
+
+    &:hover {
+        background-color: var(--orange-color);
+        cursor: pointer;
+    }
+}
+
+.active-btn {
+    background-color: var(--orange-color);
+}

@@ -1,0 +1,19 @@
+.portfolio {
+    padding-bottom: 3.2rem;
+
+    .buttons {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        gap: 8rem;
+        margin-block: 8rem;
+    }
+    
+    .cards {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 2.4rem;
+        width: 100%;
+    }
+}
+

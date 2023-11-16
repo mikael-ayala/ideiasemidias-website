@@ -1,0 +1,29 @@
+.portfolio-card {
+    display: flex;
+    flex-direction: column;
+    height: 32rem;
+    gap: 0.8rem;
+    width: 16.8rem;
+
+    .image {
+        background-color: #000;
+        height: 24.5rem;
+        width: 100%;
+    }
+
+    .text {
+        display: flex;
+        flex-direction: column;
+        gap: 0.8rem;
+
+        .name {
+            font-size: 1.6rem;
+            font-weight: 600;
+        }
+
+        .description {
+            font-size: 1.6rem;
+            font-weight: 200;
+        }
+    }
+}

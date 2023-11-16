@@ -1,0 +1,65 @@
+[
+    {
+        "image": "/src/assets/imagem-teste.png",
+        "name": "Livro",
+        "pages": "240 páginas",
+        "format": "Formato 15x15cm",
+        "category": "livros"
+    },
+    {
+        "image": "/src/assets/imagem-teste.png",
+        "name": "Revistas 2",
+        "pages": "240 páginas",
+        "format": "Formato 15x15cm",
+        "category": "revistas"
+    },
+    {
+        "image": "/src/assets/imagem-teste.png",
+        "name": "Ebook 3",
+        "pages": "240 páginas",
+        "format": "Formato 15x15cm",
+        "category": "ebooks"
+    },
+    {
+        "image": "/src/assets/imagem-teste.png",
+        "name": "Diversos 4",
+        "pages": "240 páginas",
+        "format": "Formato 15x15cm",
+        "category": "diversos"
+    },
+    {
+        "image": "/src/assets/imagem-teste.png",
+        "name": "Título Livro 5",
+        "pages": "240 páginas",
+        "format": "Formato 15x15cm",
+        "category": "livros"
+    },
+    {
+        "image": "/src/assets/imagem-teste.png",
+        "name": "Título Livro 6",
+        "pages": "240 páginas",
+        "format": "Formato 15x15cm",
+        "category": "livros"
+    },
+    {
+        "image": "/src/assets/imagem-teste.png",
+        "name": "Ebooks 7",
+        "pages": "240 páginas",
+        "format": "Formato 15x15cm",
+        "category": "ebooks"
+    },
+    {
+        "image": "/src/assets/imagem-teste.png",
+        "name": "Revistas 8",
+        "pages": "240 páginas",
+        "format": "Formato 15x15cm",
+        "category": "revistas"
+    },
+    {
+        "image": "/src/assets/imagem-teste.png",
+        "name": "Livro 9",
+        "pages": "240 páginas",
+        "format": "Formato 15x15cm",
+        "category": "livros"
+    }
+]
