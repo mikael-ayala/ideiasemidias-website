@@ -1,65 +1,74 @@
 [
     {
-        "image": "/src/assets/imagem-teste.png",
-        "name": "Livro",
-        "pages": "240 páginas",
-        "format": "Formato 15x15cm",
-        "category": "livros"
+        "image": "/src/assets/cards-images/livro-pinto-bandeira.jpg",
+        "name": "Pinto Bandeira Uma História Contada pela Fé",
+        "pages": "488 páginas",
+        "format": "Capa Dura 25x23cm",
+        "category": "livros",
+        "isEbook": false
     },
     {
-        "image": "/src/assets/imagem-teste.png",
-        "name": "Revistas 2",
-        "pages": "240 páginas",
-        "format": "Formato 15x15cm",
-        "category": "revistas"
+        "image": "/src/assets/cards-images/album-figurinhas-freio-de-ouro.jpg",
+        "name": "Freio de Ouro 2023",
+        "pages": "32 páginas",
+        "format": "21x28cm",
+        "category": "revistas",
+        "isEbook": true
     },
     {
-        "image": "/src/assets/imagem-teste.png",
-        "name": "Ebook 3",
-        "pages": "240 páginas",
-        "format": "Formato 15x15cm",
-        "category": "ebooks"
+        "image": "/src/assets/cards-images/estacoes-do-ano.jpg",
+        "name": "Estações do Ano",
+        "pages": "32 páginas",
+        "format": "14x21cm",
+        "category": "livros",
+        "isEbook": false
     },
     {
         "image": "/src/assets/imagem-teste.png",
         "name": "Diversos 4",
         "pages": "240 páginas",
         "format": "Formato 15x15cm",
-        "category": "diversos"
+        "category": "mídias gráficas",
+        "isEbook": true
     },
     {
         "image": "/src/assets/imagem-teste.png",
         "name": "Título Livro 5",
         "pages": "240 páginas",
         "format": "Formato 15x15cm",
-        "category": "livros"
+        "category": "livros",
+        "isEbook": true
     },
     {
         "image": "/src/assets/imagem-teste.png",
         "name": "Título Livro 6",
         "pages": "240 páginas",
         "format": "Formato 15x15cm",
-        "category": "livros"
+        "category": "livros",
+        "isEbook": false
     },
     {
         "image": "/src/assets/imagem-teste.png",
         "name": "Ebooks 7",
         "pages": "240 páginas",
         "format": "Formato 15x15cm",
-        "category": "ebooks"
+        "category": "livros",
+        "isEbook": false
     },
     {
         "image": "/src/assets/imagem-teste.png",
         "name": "Revistas 8",
         "pages": "240 páginas",
         "format": "Formato 15x15cm",
-        "category": "revistas"
+        "category": "revistas",
+        "isEbook": false
     },
     {
         "image": "/src/assets/imagem-teste.png",
         "name": "Livro 9",
         "pages": "240 páginas",
         "format": "Formato 15x15cm",
-        "category": "livros"
+        "category": "livros",
+        "isEbook": false
     }
 ]

@@ -5,10 +5,27 @@
     gap: 0.8rem;
     width: 16.8rem;
 
-    .image {
-        background-color: #000;
-        height: 24.5rem;
-        width: 100%;
+    .img-container {
+        align-items: center;
+        display: flex;
+        height: 100%;
+        position: relative;
+
+        .img {
+            box-shadow: 0px 0px 10px 3px rgba(230,230,230,1);
+            width: 100%;
+        }
+
+        .tag-ebook {
+            background-color: var(--orange-color);
+            color: white;
+            font-size: 1.15rem;
+            font-weight: 200;
+            padding: 0.25rem;
+            position: absolute;
+                bottom: 4rem;
+                right: 0;
+        }
     }
 
     .text {
@@ -23,7 +40,7 @@
 
         .description {
             font-size: 1.6rem;
-            font-weight: 200;
+            font-weight: 300;
         }
     }
 }

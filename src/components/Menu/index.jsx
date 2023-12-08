@@ -1,9 +1,8 @@
 import './Menu.scss'
 import { NavLink } from 'react-router-dom'
 import Logo from '../../assets/logo-ideiasemidias.svg?react'
-import Instagram from '../../assets/instagram.svg?react'
-import Whatsapp from '../../assets/whatsapp.svg?react'
-import Email from '../../assets/email.svg?react'
+import whatsapp from '../../assets/whatsapp.png'
+import instagram from '../../assets/instagram.png'
 
 export default function Menu() {
     return (
@@ -11,16 +10,17 @@ export default function Menu() {
         <header className='menu container'>
             <div className="container-menu">
                 <Logo width="186" height="130" />
-                <div className='icons'>
-                    <a href="mailto:juarezrodolpho@gmail.com" target='_blank' rel="noreferrer">
-                        <Email width="38" height="32" fill="#000" />
-                    </a>
-                    <a href="https://web.whatsapp.com/" target='_blank' rel="noreferrer">
-                        <Whatsapp width="32" height="32" fill="#000" />
-                    </a>
-                    <a href="https://www.instagram.com/" target='_blank' rel="noreferrer">
-                        <Instagram width="32" height="32" fill="#000" />
-                    </a>
+                <div className="container-menu-right">
+                    <div className='container-icons'>
+                        <a href="https://web.whatsapp.com/" target='_blank' rel="noreferrer">
+                            <img className='nav-icons' src={whatsapp} />
+                        </a>
+                        <a href="https://www.instagram.com/" target='_blank' rel="noreferrer">
+                            <img className='nav-icons' src={instagram} />
+                        </a>
+                    </div>
+
+                    <a className='email' href="mailto:ideiasemidias@gmail.com">ideiasemidias@gmail.com</a>
                 </div>
             </div>
         </header>

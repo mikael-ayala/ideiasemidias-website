@@ -7,10 +7,13 @@
     font-weight: bold;
     padding: 0.8rem;
     text-transform: capitalize;
+    transition: background-color 0.5s;
+    transition-timing-function: ease-out;
 
     &:hover {
         background-color: var(--orange-color);
         cursor: pointer;
+        
     }
 }
 

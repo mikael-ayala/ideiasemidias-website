@@ -7,7 +7,7 @@ export default function Footer() {
     return (
         <footer className='footer'>
             <div className="footer-container container">
-                <img className='logo-footer' src={logoFooter} />
+                <img onClick={() => {document.body.scrollIntoView({behavior: 'smooth', block: 'start'})}} className='logo-footer' src={logoFooter} />
                 <div className='icons-footer'>
                     <a href="https://web.whatsapp.com/" target='_blank' rel="noreferrer">
                         <Whatsapp width="24" height="24" fill="#fff" />
