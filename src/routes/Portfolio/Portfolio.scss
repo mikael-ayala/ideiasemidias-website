@@ -10,10 +10,23 @@
     }
     
     .cards {
-        display: flex;
-        flex-wrap: wrap;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
         gap: 2.4rem;
+        place-items: center;
         width: 100%;
     }
 }
 
+@media screen and (max-width: 1024px) {
+    .portfolio .cards {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .portfolio .cards {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        gap: 1.6rem;
+    }
+}

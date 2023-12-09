@@ -14,3 +14,15 @@ html {
     margin-inline: auto;
     width: 113.6rem;
 }
+
+@media screen and (max-width: 1024px) {
+    .container {
+        width: 97.6rem;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .container {
+        width: 72rem;
+    }
+}

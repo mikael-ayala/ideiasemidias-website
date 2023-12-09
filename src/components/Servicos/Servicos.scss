@@ -9,3 +9,9 @@
         gap: 6.4rem;
     }
 }
+
+@media screen and (max-width: 768px) {
+    .servicos .servicos__cards-container {
+        gap: 4.8rem;
+    }
+}

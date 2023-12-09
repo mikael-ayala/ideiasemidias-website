@@ -9,7 +9,7 @@
         justify-content: center;
         gap: 1.6rem;
         height: 100%;
-        width: 76rem;
+        width: 68rem;
         z-index: 1000;
 
         h1 {
@@ -21,6 +21,7 @@
 
         p {
             font-size: 1.6rem;
+            line-height: 2.2rem;
         }
     }
 
@@ -29,5 +30,35 @@
         right: 0;
         height: 46.5rem;
         width: 66rem;
+        z-index: -100;
+    }
+}
+
+
+
+@media screen and (max-width: 1024px) {
+    .hero .hero__background-img {
+        mask-image: linear-gradient(270deg, rgba(0, 0, 0, 1), transparent 55%);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .hero{
+        .hero__text {
+            width: 60rem;
+
+            h1 {
+                font-size: 3.2rem;
+            }
+    
+            p {
+                font-size: 1.2rem;
+                line-height: 2rem;
+            }
+        }
+
+        .hero__background-img {
+            mask-image: linear-gradient(270deg, rgba(0, 0, 0, 1), transparent 35%); 
+        }
     }
 }

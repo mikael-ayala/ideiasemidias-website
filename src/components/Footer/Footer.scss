@@ -19,5 +19,21 @@
             gap: 1.6rem;
         }
     }
-   
+}
+
+@media screen and (max-width: 768px) {
+    .footer {
+        height: 3.2rem;
+
+        .footer-container {
+            .logo-footer {
+                height: 2.1rem;
+                width: 3rem;
+            }
+    
+            .icons-footer {
+                transform: scale(0.8);
+            }
+        }
+    }
 }
