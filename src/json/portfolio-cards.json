@@ -16,7 +16,7 @@
         "isEbook": true
     },
     {
-        "image": "/src/assets/cards-images/estacoes-do-ano.jpg",
+        "image": "/src/assets/cards-images/livro-estacoes-do-ano.jpg",
         "name": "Estações do Ano",
         "pages": "32 páginas",
         "format": "14x21cm",
@@ -24,51 +24,83 @@
         "isEbook": false
     },
     {
-        "image": "/src/assets/imagem-teste.png",
-        "name": "Diversos 4",
-        "pages": "240 páginas",
-        "format": "Formato 15x15cm",
-        "category": "mídias gráficas",
-        "isEbook": true
-    },
-    {
-        "image": "/src/assets/imagem-teste.png",
-        "name": "Título Livro 5",
-        "pages": "240 páginas",
-        "format": "Formato 15x15cm",
-        "category": "livros",
-        "isEbook": true
-    },
-    {
-        "image": "/src/assets/imagem-teste.png",
-        "name": "Título Livro 6",
-        "pages": "240 páginas",
-        "format": "Formato 15x15cm",
+        "image": "/src/assets/cards-images/livro-ciencia-da-harmonia.jpg",
+        "name": "A Ciência da Harmonia e A Arte da Cura",
+        "pages": "638 páginas",
+        "format": "16x23cm",
         "category": "livros",
         "isEbook": false
     },
     {
-        "image": "/src/assets/imagem-teste.png",
-        "name": "Ebooks 7",
-        "pages": "240 páginas",
-        "format": "Formato 15x15cm",
+        "image": "/src/assets/cards-images/livro-maha-lilah-vivessencias.jpg",
+        "name": "Maha Lilah Vivessências",
+        "pages": "138 páginas",
+        "format": "15x21cm",
         "category": "livros",
         "isEbook": false
     },
     {
-        "image": "/src/assets/imagem-teste.png",
-        "name": "Revistas 8",
-        "pages": "240 páginas",
-        "format": "Formato 15x15cm",
+        "image": "/src/assets/cards-images/livro-mais-proximo-da-luz.jpg",
+        "name": "Mais Próximo da Luz",
+        "pages": "188 páginas",
+        "format": "15x21cm",
+        "category": "livros",
+        "isEbook": false
+    },
+    {
+        "image": "/src/assets/cards-images/revista-sesquicentenario.jpg",
+        "name": "Sesquicentenário da Independência CMPA 1972-2022",
+        "pages": "112 páginas",
+        "format": "21x29cm",
+        "category": "revistas",
+        "isEbook": true
+    },
+    {
+        "image": "/src/assets/cards-images/livro-romeu-e-julieta.jpg",
+        "name": "Romeu e Julieta e o Mercador de Veneza",
+        "pages": "344 páginas",
+        "format": "14x20cm",
+        "category": "livros",
+        "isEbook": false
+    },
+    {
+        "image": "/src/assets/cards-images/livro-latimer-biografia-intima.jpg",
+        "name": "José de Oliveira Latimer: Biografia Íntima",
+        "pages": "152 páginas",
+        "format": "14x21cm",
+        "category": "livros",
+        "isEbook": false
+    },
+    {
+        "image": "/src/assets/cards-images/livro-fernandao-eterno.jpg",
+        "name": "Fernandão Eterno",
+        "pages": "192 páginas",
+        "format": "Capa Dura 21x28cm",
+        "category": "livros",
+        "isEbook": false
+    },
+    {
+        "image": "/src/assets/cards-images/revista-alavanca.jpg",
+        "name": "Revista Alavanca MCC - ed. 270 - Out-Dez 2023",
+        "pages": "40 páginas",
+        "format": "Digital",
+        "category": "revistas",
+        "isEbook": true
+    },
+    {
+        "image": "/src/assets/cards-images/revista-centenario-palotino.jpg",
+        "name": "Edição Comemorativa Centenário Palotino (1923-2023)",
+        "pages": "52 páginas",
+        "format": "21x28cm",
         "category": "revistas",
         "isEbook": false
     },
     {
-        "image": "/src/assets/imagem-teste.png",
-        "name": "Livro 9",
-        "pages": "240 páginas",
-        "format": "Formato 15x15cm",
-        "category": "livros",
+        "image": "/src/assets/cards-images/revista-rainha-maria.jpg",
+        "name": "Rainha dos Apóstolos Ed. Dez 2023",
+        "pages": "68 páginas",
+        "format": "21x29cm",
+        "category": "revistas",
         "isEbook": false
     }
 ]
