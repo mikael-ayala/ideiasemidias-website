@@ -1,6 +1,6 @@
 import './Menu.scss'
 import { NavLink } from 'react-router-dom'
-import Logo from '../../assets/logo-ideiasemidias.svg?react'
+import logo from '../../assets/logo-ideiasemidias.png'
 import whatsapp from '../../assets/whatsapp.png'
 import instagram from '../../assets/instagram.png'
 
@@ -9,7 +9,7 @@ export default function Menu() {
         <>
         <header className='menu container'>
             <div className="container-menu">
-                <Logo width="186" height="130" />
+                <img className='logo-menu' src={logo} />
                 <div className="container-menu-right">
                     <div className='container-icons'>
                         <a href="https://web.whatsapp.com/" target='_blank' rel="noreferrer">

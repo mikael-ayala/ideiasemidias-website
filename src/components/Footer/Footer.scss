@@ -37,3 +37,20 @@
         }
     }
 }
+
+@media screen and (max-width: 430px) {
+    .footer {
+        height: 4rem;
+
+        .footer-container {
+            .logo-footer {
+                height: 3.1rem;
+                width: 4rem;
+            }
+    
+            .icons-footer {
+                transform: scale(1);
+            }
+        }
+    }
+}

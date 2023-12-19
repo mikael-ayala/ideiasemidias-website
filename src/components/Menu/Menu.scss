@@ -4,6 +4,11 @@
         justify-content: space-between;
         padding-block: 0.8rem;
 
+        .logo-menu {
+            height: 13rem;
+            width: 18.6rem; 
+        }
+
         .container-menu-right {
             align-items: flex-end;
             display: flex;
@@ -74,6 +79,37 @@
 
         a {
             font-size: 0.8rem;
+        }
+    }
+}
+
+@media screen and (max-width: 430px) {
+    .menu {
+        .container-menu {
+            padding-block: 2rem;
+                .logo-menu {
+                    height: 8rem;
+                    width: 13.6rem; 
+                }
+
+                .container-menu-right {
+                    justify-content: space-around;
+                    gap: 2rem;
+
+                    .container-icons {
+                        gap: 2rem;
+                    }
+                }
+        }
+    }
+
+    .navbar nav {
+        height: 4rem;
+        justify-content: center;
+        gap: 6.4rem;
+
+        a {
+            font-size: 1.1rem;
         }
     }
 }

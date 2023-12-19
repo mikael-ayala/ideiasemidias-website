@@ -26,3 +26,9 @@ html {
         width: 72rem;
     }
 }
+
+@media screen and (max-width: 430px) {
+    .container {
+        width: 32.8rem;
+    }
+}

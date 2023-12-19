@@ -15,3 +15,14 @@
         gap: 4.8rem;
     }
 }
+
+@media screen and (max-width: 430px) {
+    .servicos {
+        height: 100%;
+    
+        .servicos__cards-container {
+            flex-wrap: wrap;
+            gap: 3.2rem 5.2rem;
+        }
+    }
+}
