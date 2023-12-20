@@ -9,10 +9,10 @@ export default function Footer() {
             <div className="footer-container container">
                 <img onClick={() => {document.body.scrollIntoView({behavior: 'smooth', block: 'start'})}} className='logo-footer' src={logoFooter} />
                 <div className='icons-footer'>
-                    <a href="https://web.whatsapp.com/" target='_blank' rel="noreferrer">
+                    <a href="https://wa.me/555192978050" target='_blank' rel="noreferrer">
                         <Whatsapp width="24" height="24" fill="#fff" />
                     </a>
-                    <a href="https://www.instagram.com/" target='_blank' rel="noreferrer">
+                    <a href="https://www.instagram.com/ideiasemidias" target='_blank' rel="noreferrer">
                         <Instagram width="24" height="24" fill="#fff" />
                     </a>
                 </div>
