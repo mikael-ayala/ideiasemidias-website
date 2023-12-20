@@ -12,10 +12,10 @@ export default function Menu() {
                 <img className='logo-menu' src={logo} />
                 <div className="container-menu-right">
                     <div className='container-icons'>
-                        <a href="https://web.whatsapp.com/" target='_blank' rel="noreferrer">
+                        <a href="https://wa.me/555192978050" target='_blank' rel="noreferrer">
                             <img className='nav-icons' src={whatsapp} />
                         </a>
-                        <a href="https://www.instagram.com/" target='_blank' rel="noreferrer">
+                        <a href="https://www.instagram.com/ideiasemidias" target='_blank' rel="noreferrer">
                             <img className='nav-icons' src={instagram} />
                         </a>
                     </div>
