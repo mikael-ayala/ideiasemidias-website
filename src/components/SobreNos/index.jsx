@@ -1,11 +1,17 @@
 import './SobreNos.scss'
-import Titulo from '../Titulo'
 
 export default function SobreNos() {
     return(
         <section className='sobre-nos container'>
-            <Titulo>Sobre Nós</Titulo>
-            <p className='sobre-nos__text'>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+            <p className='sobre-nos__text'>Oferecemos os mais diversos serviços nas áreas de design gráfico:</p>
+            <ul className='sobre-nos__list'>
+                <li>Diagramação de livros, revistas, folders e catálogos</li>
+                <li>Criação de Marcas (padronização visual gráfica completa) criação de MIV</li>
+                <li>Revisão Ortográfica e Gramatical</li>
+                <li>Tratamento de Imagens</li>
+                <li>Criação de Ebooks e publicações digitais</li>
+                <li>Criação de posts/banners para web.</li>
+            </ul>
         </section>
     )
 }

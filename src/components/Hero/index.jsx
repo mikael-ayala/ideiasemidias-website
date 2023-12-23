@@ -5,8 +5,13 @@ export default function Hero() {
         <section className="hero">
             <div className="container">
                 <div className="hero__text">
-                    <h1>Designer e Diagramador</h1>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+                    <h1>Quem somos</h1>
+                    <p>Somos uma empresa com uma equipe que, acima de tudo, tem carinho e respeito pelo projeto de seus clientes.
+                        Com profissionais que atuam no mercado gráfico há mais de 30 anos, trazemos uma bagagem de conhecimento para ajudar a transformar os sonhos de nossos clientes em mídias impressas e digitais de qualidade.
+                        <br />
+                        <br />
+                        Se o seu objetivo é publicar um livro, uma revista, um folder ou catálogo pode confiar, pois estamos preparados para lhe oferecer as melhores diversas soluções gráficas para tornar o seu propósito uma realidade.
+                    </p>
                 </div>
             </div>
 

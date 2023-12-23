@@ -15,7 +15,7 @@
         h1 {
             color: var(--orange-color);
             font-weight: bold;
-            font-size: 4rem;
+            font-size: 3.2rem;
             text-transform: uppercase;
         }
 
@@ -46,14 +46,11 @@
     .hero{
         .hero__text {
             width: 60rem;
-
-            h1 {
-                font-size: 3.2rem;
-            }
     
             p {
-                font-size: 1.2rem;
+                font-size: 1.6rem;
                 line-height: 2rem;
+                width: 92%;
             }
         }
 
@@ -74,7 +71,7 @@
         }
 
         .hero__background-img {
-            mask-image: linear-gradient(270deg, rgba(0, 0, 0, 0.2), transparent 95%); 
+            mask-image: linear-gradient(270deg, rgba(0, 0, 0, 0.1), transparent 98%); 
         }
     }
 }
