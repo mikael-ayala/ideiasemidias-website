@@ -1,10 +1,10 @@
 import './PortfolioCard.scss'
 
-export default function PortfolioCard({image, name, pages, format, isEbook}) {
+export default function PortfolioCard({image, name, pages, format, isEbook, squareImage}) {
     return (
         <div className="portfolio-card">
             <div className='img-container'>
-                <img className='img' src={image} />
+                <img className={squareImage ? 'img squareImage' : 'img'} src={image} />
                 {isEbook ? <div className='tag-ebook'>Ebook</div> : ''}
             </div>
             <div className='text'>

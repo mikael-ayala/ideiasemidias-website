@@ -35,6 +35,7 @@ export default function Portfolio() {
                             pages={card.pages}
                             format={card.format}
                             isEbook={card.isEbook}
+                            squareImage={card.squareImage}
                         />
                     )}
                 </div>

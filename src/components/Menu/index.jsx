@@ -20,7 +20,7 @@ export default function Menu() {
                         </a>
                     </div>
 
-                    <a className='email' href="mailto:ideiasemidias@gmail.com">ideiasemidias@gmail.com</a>
+                    <a className='email' href="mailto:juarezrodolpho@gmail.com">juarezrodolpho@gmail.com</a>
                 </div>
             </div>
         </header>

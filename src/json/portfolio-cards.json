@@ -5,15 +5,8 @@
         "pages": "488 páginas",
         "format": "Capa Dura 25x23cm",
         "category": "livros",
-        "isEbook": false
-    },
-    {
-        "image": "/src/assets/cards-images/album-figurinhas-freio-de-ouro.jpg",
-        "name": "Freio de Ouro 2023",
-        "pages": "32 páginas",
-        "format": "21x28cm",
-        "category": "revistas",
-        "isEbook": true
+        "isEbook": false,
+        "squareImage": true
     },
     {
         "image": "/src/assets/cards-images/livro-estacoes-do-ano.jpg",
@@ -48,6 +41,30 @@
         "isEbook": false
     },
     {
+        "image": "/src/assets/cards-images/revista-rainha-maria.jpg",
+        "name": "Rainha dos Apóstolos Ed. Dez 2023",
+        "pages": "68 páginas",
+        "format": "21x29cm",
+        "category": "revistas",
+        "isEbook": false
+    },
+    {
+        "image": "/src/assets/cards-images/revista-centenario-palotino.jpg",
+        "name": "Edição Comemorativa Centenário Palotino (1923-2023)",
+        "pages": "52 páginas",
+        "format": "21x28cm",
+        "category": "revistas",
+        "isEbook": false
+    },
+    {
+        "image": "/src/assets/cards-images/revista-alavanca.jpg",
+        "name": "Revista Alavanca MCC - ed. 270 - Out-Dez 2023",
+        "pages": "40 páginas",
+        "format": "Digital",
+        "category": "revistas",
+        "isEbook": true
+    },
+    {
         "image": "/src/assets/cards-images/revista-sesquicentenario.jpg",
         "name": "Sesquicentenário da Independência CMPA 1972-2022",
         "pages": "112 páginas",
@@ -77,30 +94,48 @@
         "pages": "192 páginas",
         "format": "Capa Dura 21x28cm",
         "category": "livros",
+        "isEbook": false,
+        "squareImage": true
+    },
+    {
+        "image": "/src/assets/cards-images/livro-intimos-do-pai.jpg",
+        "name": "Íntimos do Pai",
+        "pages": "96 páginas",
+        "format": "12x16cm",
+        "category": "livros",
         "isEbook": false
     },
     {
-        "image": "/src/assets/cards-images/revista-alavanca.jpg",
-        "name": "Revista Alavanca MCC - ed. 270 - Out-Dez 2023",
-        "pages": "40 páginas",
-        "format": "Digital",
-        "category": "revistas",
+        "image": "/src/assets/cards-images/livro-amigos-do-filho.jpg",
+        "name": "Amigos do Filho",
+        "pages": "96 páginas",
+        "format": "12x16cm",
+        "category": "livros",
+        "isEbook": false
+    },
+    {
+        "image": "/src/assets/cards-images/livro-templo-do-espirito.jpg",
+        "name": "Templo do Espírito",
+        "pages": "96 páginas",
+        "format": "12x16cm",
+        "category": "livros",
+        "isEbook": false
+    },
+    {
+        "image": "/src/assets/cards-images/livro-segredo-para-uma-vida-iluminada.jpg",
+        "name": "O Segredo para uma Vida Iluminada",
+        "pages": "116 páginas",
+        "format": "15x21cm",
+        "category": "livros",
         "isEbook": true
     },
     {
-        "image": "/src/assets/cards-images/revista-centenario-palotino.jpg",
-        "name": "Edição Comemorativa Centenário Palotino (1923-2023)",
-        "pages": "52 páginas",
-        "format": "21x28cm",
+        "image": "/src/assets/cards-images/revista-paroquia-sao-roque.jpg",
+        "name": "Turma Centenário Santos Dumont",
+        "pages": "120 páginas",
+        "format": "Digital",
         "category": "revistas",
-        "isEbook": false
-    },
-    {
-        "image": "/src/assets/cards-images/revista-rainha-maria.jpg",
-        "name": "Rainha dos Apóstolos Ed. Dez 2023",
-        "pages": "68 páginas",
-        "format": "21x29cm",
-        "category": "revistas",
-        "isEbook": false
+        "isEbook": true,
+        "squareImage": true
     }
 ]
