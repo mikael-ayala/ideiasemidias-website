@@ -130,10 +130,19 @@
         "isEbook": true
     },
     {
-        "image": "/src/assets/cards-images/revista-paroquia-sao-roque.jpg",
+        "image": "/src/assets/cards-images/revista-santos-dumont.jpg",
         "name": "Turma Centenário Santos Dumont",
         "pages": "120 páginas",
         "format": "Digital",
+        "category": "revistas",
+        "isEbook": true,
+        "squareImage": true
+    },
+    {
+        "image": "/src/assets/cards-images/revista-paroquia-sao-roque.jpg",
+        "name": "Comemorativa Paroquia São Roque",
+        "pages": "32 páginas",
+        "format": "20x28cm",
         "category": "revistas",
         "isEbook": true,
         "squareImage": true
