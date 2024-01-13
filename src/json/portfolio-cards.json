@@ -136,7 +136,7 @@
         "format": "Digital",
         "category": "revistas",
         "isEbook": true,
-        "squareImage": true
+        "squareImage": true 
     },
     {
         "image": "/src/assets/cards-images/revista-paroquia-sao-roque.jpg",
