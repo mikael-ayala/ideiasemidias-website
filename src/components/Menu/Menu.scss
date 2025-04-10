@@ -3,6 +3,7 @@
         display: flex;
         justify-content: space-between;
         padding-block: 0.8rem;
+        padding-inline: 1rem;
 
         .logo-menu {
             height: 13rem;
@@ -46,6 +47,7 @@
 
 .navbar {
     background-color: #000;
+    padding-inline: 1rem;
     width: 100%;
 
     nav {
@@ -87,6 +89,7 @@
     .menu {
         .container-menu {
             padding-block: 2rem;
+
                 .logo-menu {
                     height: 8rem;
                     width: 13.6rem; 

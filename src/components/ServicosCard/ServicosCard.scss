@@ -19,8 +19,12 @@
 }
 
 @media screen and (max-width: 768px) {
-    .servicos-card p {
-        font-size: 1.2rem;
-        line-height: 1.6rem;
+    .servicos__cards-container {
+        padding-inline: 1rem;
+
+        .servicos-card p {
+            font-size: 1.2rem;
+            line-height: 1.6rem;
+        }
     }
 }

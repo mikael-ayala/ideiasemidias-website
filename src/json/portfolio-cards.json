@@ -1,6 +1,6 @@
 [
     {
-        "image": "/src/assets/cards-images/livro-pinto-bandeira.jpg",
+        "image": "./cards-images/livro-pinto-bandeira.jpg",
         "name": "Pinto Bandeira Uma História Contada pela Fé",
         "pages": "488 páginas",
         "format": "Capa Dura 25x23cm",
@@ -9,7 +9,7 @@
         "squareImage": true
     },
     {
-        "image": "/src/assets/cards-images/livro-estacoes-do-ano.jpg",
+        "image": "./cards-images/livro-estacoes-do-ano.jpg",
         "name": "Estações do Ano",
         "pages": "32 páginas",
         "format": "14x21cm",
@@ -17,7 +17,7 @@
         "isEbook": false
     },
     {
-        "image": "/src/assets/cards-images/livro-ciencia-da-harmonia.jpg",
+        "image": "./cards-images/livro-ciencia-da-harmonia.jpg",
         "name": "A Ciência da Harmonia e A Arte da Cura",
         "pages": "638 páginas",
         "format": "16x23cm",
@@ -25,7 +25,7 @@
         "isEbook": false
     },
     {
-        "image": "/src/assets/cards-images/livro-maha-lilah-vivessencias.jpg",
+        "image": "./cards-images/livro-maha-lilah-vivessencias.jpg",
         "name": "Maha Lilah Vivessências",
         "pages": "138 páginas",
         "format": "15x21cm",
@@ -33,7 +33,7 @@
         "isEbook": false
     },
     {
-        "image": "/src/assets/cards-images/livro-mais-proximo-da-luz.jpg",
+        "image": "./cards-images/livro-mais-proximo-da-luz.jpg",
         "name": "Mais Próximo da Luz",
         "pages": "188 páginas",
         "format": "15x21cm",
@@ -41,7 +41,7 @@
         "isEbook": false
     },
     {
-        "image": "/src/assets/cards-images/revista-rainha-maria.jpg",
+        "image": "./cards-images/revista-rainha-maria.jpg",
         "name": "Rainha dos Apóstolos Ed. Dez 2023",
         "pages": "68 páginas",
         "format": "21x29cm",
@@ -49,7 +49,7 @@
         "isEbook": false
     },
     {
-        "image": "/src/assets/cards-images/revista-centenario-palotino.jpg",
+        "image": "./cards-images/revista-centenario-palotino.jpg",
         "name": "Edição Comemorativa Centenário Palotino (1923-2023)",
         "pages": "52 páginas",
         "format": "21x28cm",
@@ -57,7 +57,7 @@
         "isEbook": false
     },
     {
-        "image": "/src/assets/cards-images/revista-alavanca.jpg",
+        "image": "./cards-images/revista-alavanca.jpg",
         "name": "Revista Alavanca MCC - ed. 270 - Out-Dez 2023",
         "pages": "40 páginas",
         "format": "Digital",
@@ -65,7 +65,7 @@
         "isEbook": true
     },
     {
-        "image": "/src/assets/cards-images/revista-sesquicentenario.jpg",
+        "image": "./cards-images/revista-sesquicentenario.jpg",
         "name": "Sesquicentenário da Independência CMPA 1972-2022",
         "pages": "112 páginas",
         "format": "21x29cm",
@@ -73,7 +73,7 @@
         "isEbook": true
     },
     {
-        "image": "/src/assets/cards-images/livro-romeu-e-julieta.jpg",
+        "image": "./cards-images/livro-romeu-e-julieta.jpg",
         "name": "Romeu e Julieta e o Mercador de Veneza",
         "pages": "344 páginas",
         "format": "14x20cm",
@@ -81,7 +81,7 @@
         "isEbook": false
     },
     {
-        "image": "/src/assets/cards-images/livro-latimer-biografia-intima.jpg",
+        "image": "./cards-images/livro-latimer-biografia-intima.jpg",
         "name": "José de Oliveira Latimer: Biografia Íntima",
         "pages": "152 páginas",
         "format": "14x21cm",
@@ -89,7 +89,7 @@
         "isEbook": false
     },
     {
-        "image": "/src/assets/cards-images/livro-fernandao-eterno.jpg",
+        "image": "./cards-images/livro-fernandao-eterno.jpg",
         "name": "Fernandão Eterno",
         "pages": "192 páginas",
         "format": "Capa Dura 21x28cm",
@@ -98,7 +98,7 @@
         "squareImage": true
     },
     {
-        "image": "/src/assets/cards-images/livro-intimos-do-pai.jpg",
+        "image": "./cards-images/livro-intimos-do-pai.jpg",
         "name": "Íntimos do Pai",
         "pages": "96 páginas",
         "format": "12x16cm",
@@ -106,7 +106,7 @@
         "isEbook": false
     },
     {
-        "image": "/src/assets/cards-images/livro-amigos-do-filho.jpg",
+        "image": "./cards-images/livro-amigos-do-filho.jpg",
         "name": "Amigos do Filho",
         "pages": "96 páginas",
         "format": "12x16cm",
@@ -114,7 +114,7 @@
         "isEbook": false
     },
     {
-        "image": "/src/assets/cards-images/livro-templo-do-espirito.jpg",
+        "image": "./cards-images/livro-templo-do-espirito.jpg",
         "name": "Templo do Espírito",
         "pages": "96 páginas",
         "format": "12x16cm",
@@ -122,7 +122,7 @@
         "isEbook": false
     },
     {
-        "image": "/src/assets/cards-images/livro-segredo-para-uma-vida-iluminada.jpg",
+        "image": "./cards-images/livro-segredo-para-uma-vida-iluminada.jpg",
         "name": "O Segredo para uma Vida Iluminada",
         "pages": "116 páginas",
         "format": "15x21cm",
@@ -130,7 +130,7 @@
         "isEbook": true
     },
     {
-        "image": "/src/assets/cards-images/revista-santos-dumont.jpg",
+        "image": "./cards-images/revista-santos-dumont.jpg",
         "name": "Turma Centenário Santos Dumont",
         "pages": "120 páginas",
         "format": "Digital",
@@ -139,7 +139,7 @@
         "squareImage": true 
     },
     {
-        "image": "/src/assets/cards-images/revista-paroquia-sao-roque.jpg",
+        "image": "./cards-images/revista-paroquia-sao-roque.jpg",
         "name": "Comemorativa Paroquia São Roque",
         "pages": "32 páginas",
         "format": "20x28cm",

@@ -1,4 +1,5 @@
 import './Hero.scss'
+import bgImg from '../../assets/background-img.png'
 
 export default function Hero() {
     return (
@@ -15,7 +16,7 @@ export default function Hero() {
                 </div>
             </div>
 
-            <img className="hero__background-img" src="/src/assets/background-img.png" />
+            <img className="hero__background-img" src={bgImg} />
         </section>
     )
 }

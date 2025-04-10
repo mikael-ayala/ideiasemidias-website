@@ -1,11 +1,12 @@
 .servicos {
     background-color: #fafafa;
-    height: 36rem;
+    height: auto;
     padding-block: 5.6rem;
 
     .servicos__cards-container {
-        justify-content: center;
+        flex-wrap: wrap;
         display: flex;
+        justify-content: center;
         gap: 6.4rem;
     }
 }
@@ -21,7 +22,6 @@
         height: 100%;
     
         .servicos__cards-container {
-            flex-wrap: wrap;
             gap: 3.2rem 5.2rem;
         }
     }

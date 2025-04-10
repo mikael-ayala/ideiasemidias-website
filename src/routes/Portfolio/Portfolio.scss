@@ -1,5 +1,7 @@
 .portfolio {
+    min-height: calc(100vh - 298px);
     padding-bottom: 6.4rem;
+    padding-inline: 1rem;
 
     .buttons {
         align-items: center;
@@ -18,28 +20,37 @@
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1180px) {
     .portfolio .cards {
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1000px) {
     .portfolio .cards {
         grid-template-columns: 1fr 1fr 1fr 1fr;
         gap: 1.6rem;
     }
 }
 
+@media screen and (max-width: 700px) {
+    .portfolio .cards {
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 5.2rem 1rem;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .portfolio .cards {
+        grid-template-columns: 1fr 1fr;
+        gap: 5.2rem 3.2rem;
+    }
+}
+ 
 @media screen and (max-width: 430px) {
     .portfolio {
         .buttons {
             margin-block: 4.8rem;
-        }
-
-        .cards {
-            grid-template-columns: 1fr 1fr;
-            gap: 5.2rem 3.2rem;
         }
     }
 }
