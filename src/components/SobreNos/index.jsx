@@ -10,7 +10,7 @@ export default function SobreNos() {
                 <li>Revisão Ortográfica e Gramatical</li>
                 <li>Tratamento de Imagens</li>
                 <li>Criação de Ebooks e publicações digitais</li>
-                <li>Criação de posts/banners para web.</li>
+                <li>Criação de posts/banners para web</li>
                 <li>Produção de ISBN e Ficha Catalográfica</li>
             </ul>
         </section>

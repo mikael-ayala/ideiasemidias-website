@@ -4,7 +4,7 @@ import bgImg from '../../assets/background-img.png'
 export default function Hero() {
     return (
         <section className="hero">
-            <div className="container">
+            <div className="hero__container">
                 <div className="hero__text">
                     <h1>Quem somos</h1>
                     <p>Somos uma empresa com uma equipe que, acima de tudo, tem carinho e respeito pelo projeto de seus clientes.
