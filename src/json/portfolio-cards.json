@@ -146,5 +146,13 @@
         "category": "revistas",
         "isEbook": true,
         "squareImage": true
+    },
+    {
+        "image": "./cards-images/livro-fitoterapia-na-pratica.jpg",
+        "name": "Fitoterapia na Prática",
+        "pages": "270 páginas",
+        "format": "16x23cm",
+        "category": "livros",
+        "isEbook": false
     }
 ]
